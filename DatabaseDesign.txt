@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS Transaction(
+TransID integer PRIMARY KEY AUTO_INCREMENT,
+TransDate Timestamp,
+Credit integer,
+Debit integer,
+AvailbleBal integer);
