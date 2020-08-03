@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @SuppressWarnings("serial")
 @WebServlet("/fundTransfer")
 public class TransactionController extends HttpServlet {
-	@RequestMapping("/fundTransfer")
+
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 				throws ServletException, IOException {

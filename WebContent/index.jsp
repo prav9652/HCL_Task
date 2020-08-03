@@ -43,7 +43,7 @@ background-color:#fff;      }
 <body >
 	<h2 align="center">Last Five Transactions</h2>
 	
-	<table class="center" >
+	<table align="center">
 	<tr>
 	<th>TransactionId</th>
 	<th>TransDates</th>
